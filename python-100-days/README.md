@@ -4,5 +4,9 @@
 原书：https://github.com/jackfrued/Python-100-Days
 
 个人学习笔记：
-* [day 1 begin to use Python](./day001-begin-to-use-Python.ipynb)
-* [day 2 viriables and operators](./day002-viriables-and-operators.ipynb)
+* [begin to use Python](./001-begin-to-use-Python.ipynb)
+* [viriables and operators](./002-viriables-and-operators.ipynb)
+* [branch structure](./003-branch-structure.ipynb)
+* [cyclic structure](./004-cyclic-structure.ipynb)
+* [function and module](./005-function-and-module.ipynb)
+* [string and data structure](./006-string-and-data-structure.ipynb)
