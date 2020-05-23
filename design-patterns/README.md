@@ -1,5 +1,6 @@
 # 设计模式
 
+* [Before](./0.0.Before.md)
 * [Factory](./1.1.Factory.md)
 * [Abstract Factory](./1.2.AbstractFactory.md)
 * [Singleton](./1.3.Singleton.md)
