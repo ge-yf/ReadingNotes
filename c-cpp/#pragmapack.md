@@ -1,4 +1,4 @@
-# #pragma pack()用法详解
+# pragma pack()用法详解
 
 ## 1.什么是对齐 为什么要对齐
 
