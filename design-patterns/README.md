@@ -1,6 +1,6 @@
-# 设计模式
+# Design Patten
 
-* [Before](./0.0.Before.md)
+* [Design Principle](./0.0.DesignPrinciple.md)
 * [Template Method](./0.1.TemplateMethod.md)
 * [Factory](./1.1.Factory.md)
 * [Abstract Factory](./1.2.AbstractFactory.md)
