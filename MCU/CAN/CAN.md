@@ -99,3 +99,5 @@ CD+AMP（Collision Detection + Arbitration on Message Priority）指的是如果
 
 
 https://zhuanlan.zhihu.com/p/32262127
+https://zhuanlan.zhihu.com/p/26394774
+https://zhuanlan.zhihu.com/p/45211631
